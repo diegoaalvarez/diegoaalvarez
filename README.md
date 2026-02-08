@@ -20,3 +20,8 @@ Database Engines: SQL (PostgreSQL/MySQL variants).
 
 Other: Desktop Application Development, Git command line, GitHub.
 Currently looking for opportunities as a Software Developer (Remote or Valparaíso Region) where I can apply my skills as a developer to build efficient, scalable, and high-quality products.
+
+
+## Socials
+
+https://www.linkedin.com/in/diego-%C3%A1lvarez-721192333/
